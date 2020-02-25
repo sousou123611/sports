@@ -1,0 +1,246 @@
+header
+{
+	background-color: white;
+}
+html
+{
+	background-color: #d9d9da;
+}
+section
+{
+		padding-left: 40px;
+	font-weight: normal;
+	color:#444;
+	font-size: 1em;
+	text-decoration: none;
+	font-family: "Lucida sans", sans-serif;
+}
+body
+{
+	
+	margin: auto;
+	clear: both;
+
+	background-color: white;
+	color: black;
+    width: 1100px;
+	font-family: "Times New Roman", Arial, Calibri, "Trebuchet MS", sans-serif;
+	}
+	header h1
+{
+	font-family: "Trebuchet MS", Arial, Calibri, sans-serif;
+	text-transform: uppercase;
+	font-weight: normal;
+	margin: auto;
+	text-align: center;
+}
+header h3
+{
+	font-family: "Trebuchet MS", Arial, Calibri, sans-serif;
+	text-transform: uppercase;
+	font-weight: normal;
+text-align: center;	
+	color: gray;
+margin: auto;
+
+}
+#logo
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+#logo img
+{
+	width:500px;
+	height:500px;
+	justify-content: center;
+	flex-direction: row;
+	display: flex;
+	margin: auto;
+}
+nav ul
+{
+	list-style-color: rgb(0,64,128);
+	background-color: #0c80a1;
+padding-top:10px;
+padding-bottom: 10px;
+padding-right: 10px;
+padding-left: 30px;
+	
+	display: flex;
+	justify-content: center;
+}
+li
+{
+	margin-right: 35px;
+	color: #04080842;
+}
+nav a
+{
+	display: flex;
+	flex-direction: row;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	font-size: 1.3em;
+	}
+	nav a:hover
+	{
+		text-decoration: underline;
+		color:white;
+	}
+	nav a:active
+	{
+		color: rgb(0,64,128);
+	}
+	
+
+	#petit
+{
+	margin:auto;
+	text-align: center;
+font-style: none;
+color: gray;
+font-family: "Lucida sans", sans-serif;
+font-size: 2em;
+padding-top: 0x;
+padding-left: 3px;
+}
+.p
+{
+	margin-top:20px;
+	padding-top: 20px;
+}
+.c
+{
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+}
+.pp
+{
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+.sol
+{
+	padding-bottom: 30px;
+}
+.tendu
+{
+padding-bottom: 30px;
+}
+.app
+{
+	padding-bottom: 30px;
+	font-weight: bold;
+}
+.tt
+{
+	font-weight: bold;
+}
+.ee
+{
+	margin-top: 30px;
+	padding-top: 30px;
+}
+.cas
+{
+	padding-bottom: 30px;
+}
+.mus
+{
+	padding-bottom: 30px;
+	font-weight: bold;
+}
+.i
+{
+	font-weight: bold;
+}
+.qq
+{
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.ii
+{
+	font-weight: bold;
+}
+.iii
+{
+	font-weight: bold;
+}
+.add
+{
+	padding-bottom: 30px;
+}
+.ex
+{
+	padding-bottom: 30px;
+}
+.scu
+{
+	padding-bottom: 30px;
+}
+.mm
+{
+	text-align: center;
+	margin:auto;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.mot
+{
+	color:#444;
+	font-weight: bold;
+}
+.g
+{
+	color:#0c80a1;
+
+}
+.ff
+{
+	text-align: center;
+	margin:auto;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.a
+{
+	padding-bottom: 30px;
+	padding-top: 30px;
+
+}
+footer
+{
+	background-color: #444;
+	color: white;
+}
+ a:hover
+	{
+		text-decoration: underline;
+		color:white;
+	}
+	 a:active
+	{
+		color: white;
+	}
+a
+{
+	color:white;
+	margin-left: 50px;
+	
+}
+.pieds
+{
+	font-weight: bold;
+	font-size: 1em;
+	margin-left: 50px;
+}
+.pppp
+{
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
